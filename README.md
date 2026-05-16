@@ -14,6 +14,22 @@ The project was built to understand how speech-to-text APIs actually work at the
 
 ---
 
+## SpeakMate Demo
+
+This video demonstrates the core functionality of SpeakMate, an iOS voice analysis app built for spoken English practice.
+
+### What’s shown in this demo:
+- Recording a response to a daily prompt  
+- Uploading audio to the Deepgram API  
+- Real-time transcription and sentiment analysis  
+- Performance scoring across fluency, pronunciation, vocabulary, and confidence  
+- Dynamic feedback and results visualization
+
+Watch SpeakMate in action:  
+👉 https://drive.google.com/file/d/1X4OoeI-oBUjp_PESaHSXKN-6_DpDQhjJ/view?usp=sharing
+
+---
+
 ## Motivation
 
 I wanted to build something that solved a real problem. International students often struggle not just with English grammar, but with sounding natural and confident in everyday Australian conversation. That gap felt like an interesting design challenge.
